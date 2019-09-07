@@ -25,4 +25,8 @@ docker run -d --name web -p 8080:8080 <repo_name>:<tag_id>
 docker stop web 
 docker container start web
 ```
-
+```
+docker ps
+docker ps -a
+docker rm <at least 3 chars start of id>
+```
