@@ -29,4 +29,5 @@ docker container start web
 docker ps
 docker ps -a
 docker rm <at least 3 chars start of id>
+docker run --rm <name>
 ```
