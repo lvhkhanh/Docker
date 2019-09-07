@@ -33,3 +33,7 @@ docker stop <at least 3 chars start of id>
 docker run --rm <name>
 docker run --rm nginx
 ```
+```
+# mapping volume from current directory to code folder inside container 
+docker run -rm -it -v ${PWD}:/code python
+```
