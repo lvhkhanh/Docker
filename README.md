@@ -7,6 +7,18 @@
 
 
 ```
+git clone https://github.com/docker/doodle.git
+```
+
+[New to git? Install it here.](https://help.github.com/en/articles/set-up-git)
+
+```
+cd doodle\cheers2019 ; docker build -t khanhlvh/cheers2019 .
+docker run -it --rm khanhlvh/cheers2019
+docker login ; docker push khanhlvh/cheers2019
+```
+
+```
 # build a image
 docker image build -t <repo_name>:<tag_id> .
 # list out an image
