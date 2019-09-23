@@ -5,6 +5,9 @@
 * [summer-of-skills](https://www.pluralsight.com/offer/2019/summer-of-skills) - [@KhanhLVH](https://app.pluralsight.com/profile/KhanhLVH)
 * [Play with Docker classroom](https://training.play-with-docker.com/)
 
+Turn on docker experimental
+![](https://snipboard.io/ncemTz.jpg)
+
 
 ```
 git clone https://github.com/docker/doodle.git
