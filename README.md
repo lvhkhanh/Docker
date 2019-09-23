@@ -8,6 +8,10 @@
 Turn on docker experimental
 ![](https://snipboard.io/ncemTz.jpg)
 
+Use linux platform
+
+`--platform linux`
+
 
 ```
 git clone https://github.com/docker/doodle.git
