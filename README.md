@@ -56,3 +56,19 @@ docker run --rm nginx
 # mapping volume from current directory to code folder inside container 
 docker run -rm -it -v ${PWD}:/code python
 ```
+
+
+
+## https://docs.docker.com/engine/docker-overview/
+
+## https://geekflare.com/docker-architecture/
+
+## https://wiki.aquasec.com/display/containers/Docker+Architecture
+
+## https://www.edureka.co/blog/docker-architecture/
+
+## https://www.tutorialspoint.com/docker/docker_architecture.htm
+
+## https://www.guru99.com/docker-tutorial.html
+
+## https://vmarena.com/docker-architecture-and-components/
