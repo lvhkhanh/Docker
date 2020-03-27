@@ -5,7 +5,7 @@
 * [summer-of-skills](https://www.pluralsight.com/offer/2019/summer-of-skills) - [@KhanhLVH](https://app.pluralsight.com/profile/KhanhLVH)
 * [Play with Docker classroom](https://training.play-with-docker.com/)
 
-Turn on docker experimental
+## Turn on docker experimental could make linux image run well
 ![](https://snipboard.io/ncemTz.jpg)
 
 Use linux platform
