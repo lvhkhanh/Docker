@@ -1,5 +1,12 @@
 # Docker
-
+## Docker compose
+### https://docs.docker.com/compose/
+```
+$ docker-compose up -d
+$ ./run_tests
+$ docker-compose down
+```
+### https://www.tutorialspoint.com/docker/docker_compose.htm
 * [THAT Conference '19: The Absolute Beginner's Guide to Docker](https://app.pluralsight.com/library/courses/that-conference-2019-session-33/table-of-contents)
 * [docker-kubernetes-big-picture](https://app.pluralsight.com/library/courses/docker-kubernetes-big-picture)
 * [summer-of-skills](https://www.pluralsight.com/offer/2019/summer-of-skills) - [@KhanhLVH](https://app.pluralsight.com/profile/KhanhLVH)
