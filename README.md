@@ -5,7 +5,7 @@
 ## Docker compose
 ### https://docs.docker.com/compose/
 ```
-$ docker-compose up -d
+$ docker-compose -f "docker-compose.yml" up -d --build
 $ ./run_tests
 $ docker-compose down
 ```
