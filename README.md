@@ -2,6 +2,20 @@
 ## Courses
 ### https://app.pluralsight.com/library/courses/kubernetes-developers-docker-compose-to-kubernetes/table-of-contents
 ### https://codelabs.developers.google.com/codelabs/cloud-app-engine-aspnetcore/index.html?index=..%2F..index#0
+## Steps
+```
+# clone
+git clone ...
+# build
+cd ...
+docker build -t tagNameOfImage .
+# run
+docker run -d -p 80:80 \
+  --name containerName tagNameOfImage
+# share
+docker tag tagNameofImage {userName}/tagNameofImage
+docker push {userName}/tagNameOfImage
+```
 ## Docker compose
 ### https://docs.docker.com/compose/
 ```
