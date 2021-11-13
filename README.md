@@ -6,7 +6,8 @@
 ### https://codelabs.developers.google.com/codelabs/cloud-app-engine-aspnetcore/index.html?index=..%2F..index#0
 ## Steps
 ```
-docker run -v ${PWD}:/path_in_container
+docker run -v ${PWD}:/path_in_container -w /path_in_container openjdk:11.0.10-buster javac Hello.java
+docker run -v ${PWD}:/path_in_container -w /path_in_container openjdk:11.0.10-buster java Hello
 
 # clone
 git clone ...
