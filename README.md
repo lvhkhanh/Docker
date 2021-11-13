@@ -6,6 +6,8 @@
 ### https://codelabs.developers.google.com/codelabs/cloud-app-engine-aspnetcore/index.html?index=..%2F..index#0
 ## Steps
 ```
+docker run -v ${PWD}:/path_in_container
+
 # clone
 git clone ...
 # build
